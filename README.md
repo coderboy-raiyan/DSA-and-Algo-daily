@@ -9,6 +9,6 @@ Welcome to my Daily DSA and Algorithm Practice repository! This is where I docum
 If you have any suggestions, questions, or just want to connect, feel free to reach out:
 
 - Email: tajkierhaque@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tajkier-haque/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/tajkier-haque/)
 
 Happy coding!
